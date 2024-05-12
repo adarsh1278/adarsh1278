@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I have  started my coding journey with 'web development and dsa to start with. On my way, I learned HTML  CSS ,  Javascript and React and I'm currently learning nodejs Apart from that, I'm learning java to have my hands on data structures and different algorithm<br><br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I have  started my coding journey with 'web development and dsa to start with. On my way, I learned HTML  CSS ,  Javascript and React and I'm currently learning nodejs Apart from that, I'm learning java to have my hands on data structures and different algorithm<br><br><br>✨
 
 ###
 
